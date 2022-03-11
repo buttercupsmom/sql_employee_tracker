@@ -4,15 +4,14 @@ USE company_db
 
 
 CREATE TABLE department (
-    id INT,
     name VARCHAR(30)
 );
 
 
 CREATE TABLE role (
-id INT,
-title VARCHAR(30),
-salary DECIMAL,
+role_id INT,
+role_title VARCHAR(30),
+role_salary DECIMAL,
 department_id INT
 );
 
