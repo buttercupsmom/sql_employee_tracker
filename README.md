@@ -44,7 +44,7 @@ $npm run start
 
 ![GeneratedHtml](./assets/Screen%20Shot%202022-03-13%20at%2010.24.07%20PM.png)
 
-- Here is the instructional demo video: [Google Drive](https://drive.google.com/file/d/18SXSItyqYPOex10j7ur2XyUDcX2W4NNZ/view?usp=sharing)
+- Here is the instructional demo video: [Google Drive](https://drive.google.com/file/d/1XMyqT7z8bXG34sjPWpZaxobBQHjwkLr7/view?usp=sharing)
 
 ## License
 
